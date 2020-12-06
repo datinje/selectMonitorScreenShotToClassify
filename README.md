@@ -1,4 +1,2 @@
-# nbdev template
-
-Use this template to more easily create your nbdev project.
+# select the Monitor Screen Shot To Classify
 
